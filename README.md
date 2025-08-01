@@ -2,7 +2,6 @@
 
 Welcome to my data engineering project showcasing a complete, production-grade ETL pipeline using **Azure Databricks** and **Delta Live Tables**, built on the **Medallion Architecture**.
 
-![Architecture Diagram](Documents/bricksproject.jpg)
 
 ## 📌 Overview
 
